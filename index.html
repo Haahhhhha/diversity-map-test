@@ -15,16 +15,28 @@
 
 <style>
     body {
+        width: 100%;
+        height: 100%;
         margin: 0;
-        font-family: Arial, sans-serif;
+        padding: 0;
+    }
+
+    body {
+        overflow: hidden;
     }
 
     h1 {
-        margin: 15px;
+        height: 56px;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 8px 12px;
+        font-size: 28px;
+        line-height: 40px;
     }
 
     #mapdiv {
-        height: 800px;
+        width: 100%;
+        height: calc(100vh - 56px);
     }
 
     .index-control {
@@ -110,7 +122,7 @@
     const ne = L.latLng(1.494, 104.502);
     const singaporeBounds = L.latLngBounds(sw, ne);
 
-    const defaultCenter = [1.3521, 103.8198];
+    const defaultCenter = [1.347462, 103.843456];
     const defaultZoom = 12;
 
     const map = L.map("mapdiv", {
@@ -129,7 +141,13 @@
         });
     });
 
+    function refreshMapSize() {
+        setTimeout(function () {
+            map.invalidateSize();
+        }, 150);
+    }
 
+    
     // ---------------------------------------------------------
     // 2. Add the OneMap grey basemap
     // ---------------------------------------------------------
@@ -139,22 +157,15 @@
         {
             detectRetina: true,
             maxZoom: 19,
-            minZoom: 11,
-
-            /** DO NOT REMOVE the OneMap attribution below **/
-            attribution:
-            '<img src="https://www.onemap.gov.sg/web-assets/images/logo/om_logo.png" ' +
-            'style="height:20px;width:20px;"/>&nbsp;' +
-            '<a href="https://www.onemap.gov.sg/" target="_blank" ' +
-            'rel="noopener noreferrer">OneMap</a>&nbsp;&copy;&nbsp;' +
-            'contributors&nbsp;&#124;&nbsp;' +
-            '<a href="https://www.sla.gov.sg/" target="_blank" ' +
-            'rel="noopener noreferrer">Singapore Land Authority</a>'
+            minZoom: 11
         }
     );
 
     basemap.addTo(map);
-
+    
+    setTimeout(function () {
+        map.invalidateSize();
+    }, 300);
 
     // ---------------------------------------------------------
     // 3. Diversity variables available in the dropdown
@@ -481,8 +492,8 @@
                 }
 
                 map.fitBounds(event.target.getBounds(), {
-                    padding: [20, 20],
-                    maxZoom: 14
+                    padding: [200, 200],
+                    animate: true
                 });
             }
         });
