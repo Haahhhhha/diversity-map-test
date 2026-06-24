@@ -1,0 +1,290 @@
+[
+  {
+    "Planning Area": "ANG MO KIO",
+    "Household_F_mean": 0.8601,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4598,
+    "neighbourhood_interact_diversity_mean": 0.4135,
+    "n": 194
+  },
+  {
+    "Planning Area": "BEDOK",
+    "Household_F_mean": 0.8488,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4917,
+    "neighbourhood_interact_diversity_mean": 0.4179,
+    "n": 325
+  },
+  {
+    "Planning Area": "BISHAN",
+    "Household_F_mean": 0.8123,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5196,
+    "neighbourhood_interact_diversity_mean": 0.5012,
+    "n": 90
+  },
+  {
+    "Planning Area": "BUKIT BATOK",
+    "Household_F_mean": 0.8324,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.2837,
+    "neighbourhood_interact_diversity_mean": 0.2719,
+    "n": 187
+  },
+  {
+    "Planning Area": "BUKIT MERAH",
+    "Household_F_mean": 0.8669,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5235,
+    "neighbourhood_interact_diversity_mean": 0.385,
+    "n": 184
+  },
+  {
+    "Planning Area": "BUKIT PANJANG",
+    "Household_F_mean": 0.825,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.6497,
+    "neighbourhood_interact_diversity_mean": 0.5954,
+    "n": 168
+  },
+  {
+    "Planning Area": "BUKIT TIMAH",
+    "Household_F_mean": 0.6751,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5222,
+    "neighbourhood_interact_diversity_mean": 0.4077,
+    "n": 93
+  },
+  {
+    "Planning Area": "CHOA CHU KANG",
+    "Household_F_mean": 0.8167,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5459,
+    "neighbourhood_interact_diversity_mean": 0.5218,
+    "n": 229
+  },
+  {
+    "Planning Area": "CLEMENTI",
+    "Household_F_mean": 0.8471,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4033,
+    "neighbourhood_interact_diversity_mean": 0.3458,
+    "n": 104
+  },
+  {
+    "Planning Area": "DOWNTOWN CORE",
+    "Household_F_mean": 0.6934,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.705,
+    "neighbourhood_interact_diversity_mean": 0.572,
+    "n": 5
+  },
+  {
+    "Planning Area": "GEYLANG",
+    "Household_F_mean": 0.8524,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5914,
+    "neighbourhood_interact_diversity_mean": 0.5127,
+    "n": 131
+  },
+  {
+    "Planning Area": "HOUGANG",
+    "Household_F_mean": 0.8344,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.6144,
+    "neighbourhood_interact_diversity_mean": 0.5211,
+    "n": 277
+  },
+  {
+    "Planning Area": "JURONG EAST",
+    "Household_F_mean": 0.8462,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5262,
+    "neighbourhood_interact_diversity_mean": 0.4505,
+    "n": 91
+  },
+  {
+    "Planning Area": "JURONG WEST",
+    "Household_F_mean": 0.8261,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.358,
+    "neighbourhood_interact_diversity_mean": 0.3173,
+    "n": 308
+  },
+  {
+    "Planning Area": "KALLANG",
+    "Household_F_mean": 0.8663,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5155,
+    "neighbourhood_interact_diversity_mean": 0.442,
+    "n": 111
+  },
+  {
+    "Planning Area": "MARINE PARADE",
+    "Household_F_mean": 0.8202,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4525,
+    "neighbourhood_interact_diversity_mean": 0.4082,
+    "n": 44
+  },
+  {
+    "Planning Area": "NOVENA",
+    "Household_F_mean": 0.8102,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4871,
+    "neighbourhood_interact_diversity_mean": 0.4176,
+    "n": 51
+  },
+  {
+    "Planning Area": "ORCHARD",
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.645,
+    "neighbourhood_interact_diversity_mean": 0.62,
+    "n": 1
+  },
+  {
+    "Planning Area": "OUTRAM",
+    "Household_F_mean": 0.8834,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.4171,
+    "neighbourhood_interact_diversity_mean": 0.48,
+    "n": 19
+  },
+  {
+    "Planning Area": "PASIR RIS",
+    "Household_F_mean": 0.8033,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5353,
+    "neighbourhood_interact_diversity_mean": 0.4965,
+    "n": 171
+  },
+  {
+    "Planning Area": "PAYA LEBAR",
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.725,
+    "neighbourhood_interact_diversity_mean": 0.5,
+    "n": 1
+  },
+  {
+    "Planning Area": "PUNGGOL",
+    "Household_F_mean": 0.8121,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5997,
+    "neighbourhood_interact_diversity_mean": 0.5543,
+    "n": 204
+  },
+  {
+    "Planning Area": "QUEENSTOWN",
+    "Household_F_mean": 0.8628,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.385,
+    "neighbourhood_interact_diversity_mean": 0.3499,
+    "n": 97
+  },
+  {
+    "Planning Area": "RIVER VALLEY",
+    "Household_F_mean": 0.6575,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.739,
+    "neighbourhood_interact_diversity_mean": 0.688,
+    "n": 5
+  },
+  {
+    "Planning Area": "ROCHOR",
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.715,
+    "neighbourhood_interact_diversity_mean": 0.66,
+    "n": 1
+  },
+  {
+    "Planning Area": "SEMBAWANG",
+    "Household_F_mean": 0.8206,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.3914,
+    "neighbourhood_interact_diversity_mean": 0.3247,
+    "n": 124
+  },
+  {
+    "Planning Area": "SENGKANG",
+    "Household_F_mean": 0.8152,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5203,
+    "neighbourhood_interact_diversity_mean": 0.458,
+    "n": 300
+  },
+  {
+    "Planning Area": "SERANGOON",
+    "Household_F_mean": 0.8183,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5927,
+    "neighbourhood_interact_diversity_mean": 0.5271,
+    "n": 149
+  },
+  {
+    "Planning Area": "SINGAPORE RIVER",
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.675,
+    "neighbourhood_interact_diversity_mean": 0.46,
+    "n": 1
+  },
+  {
+    "Planning Area": "SUNGEI KADUT",
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.7525,
+    "neighbourhood_interact_diversity_mean": 0.77,
+    "n": 2
+  },
+  {
+    "Planning Area": "TAMPINES",
+    "Household_F_mean": 0.8336,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5582,
+    "neighbourhood_interact_diversity_mean": 0.5177,
+    "n": 291
+  },
+  {
+    "Planning Area": "TANGLIN",
+    "Household_F_mean": 0.6277,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.67,
+    "neighbourhood_interact_diversity_mean": 0.6,
+    "n": 2
+  },
+  {
+    "Planning Area": "TOA PAYOH",
+    "Household_F_mean": 0.8673,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.6152,
+    "neighbourhood_interact_diversity_mean": 0.5309,
+    "n": 148
+  },
+  {
+    "Planning Area": "WOODLANDS",
+    "Household_F_mean": 0.8199,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.6048,
+    "neighbourhood_interact_diversity_mean": 0.5456,
+    "n": 271
+  },
+  {
+    "Planning Area": "YISHUN",
+    "Household_F_mean": 0.832,
+    "HousingType_F_sd": 0,
+    "neighbourhood_diversity_mean": 0.5477,
+    "neighbourhood_interact_diversity_mean": 0.4594,
+    "n": 261
+  },
+  {
+    "Planning Area": null,
+    "Household_F_mean": null,
+    "HousingType_F_sd": null,
+    "neighbourhood_diversity_mean": 0.63,
+    "neighbourhood_interact_diversity_mean": 0.75,
+    "n": 2
+  }
+]
