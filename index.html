@@ -487,6 +487,18 @@
             },
 
             click: function (event) {
+            if (event.originalEvent) {
+                L.DomEvent.stopPropagation(event.originalEvent);
+            }
+
+            map.setView(event.latlng, 13, {
+                animate: true
+            });
+        }
+
+            
+            /**
+            click: function (event) {
                 if (event.originalEvent) {
                     L.DomEvent.stopPropagation(event.originalEvent);
                 }
@@ -496,6 +508,7 @@
                     animate: true
                 });
             }
+            **/
         });
     }
 
