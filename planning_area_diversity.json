@@ -5,6 +5,12 @@
     "HousingType_F_mean": 0.6226,
     "neighbourhood_diversity_mean": 0.4598,
     "neighbourhood_interact_diversity_mean": 0.4135,
+    "belonging_singapore_mean": 7.3247,
+    "life_satisfaction_mean": 5.396,
+    "happy_mean": 5.4012,
+    "health_mean": 2.9398,
+    "income_unequal_mean": 8.0128,
+    "walkscore_mean": 76.6649,
     "n": 194
   },
   {
@@ -13,6 +19,12 @@
     "HousingType_F_mean": 0.7146,
     "neighbourhood_diversity_mean": 0.4917,
     "neighbourhood_interact_diversity_mean": 0.4179,
+    "belonging_singapore_mean": 8.1651,
+    "life_satisfaction_mean": 5.5826,
+    "happy_mean": 5.4068,
+    "health_mean": 3.4644,
+    "income_unequal_mean": 7.3269,
+    "walkscore_mean": 74.3015,
     "n": 325
   },
   {
@@ -21,6 +33,12 @@
     "HousingType_F_mean": 0.5811,
     "neighbourhood_diversity_mean": 0.5196,
     "neighbourhood_interact_diversity_mean": 0.5012,
+    "belonging_singapore_mean": 8.0222,
+    "life_satisfaction_mean": 5.6778,
+    "happy_mean": 5.5556,
+    "health_mean": 3.2667,
+    "income_unequal_mean": 7.5909,
+    "walkscore_mean": 74.3111,
     "n": 90
   },
   {
@@ -29,6 +47,12 @@
     "HousingType_F_mean": 0.6172,
     "neighbourhood_diversity_mean": 0.2837,
     "neighbourhood_interact_diversity_mean": 0.2719,
+    "belonging_singapore_mean": 8.0753,
+    "life_satisfaction_mean": 5.5652,
+    "happy_mean": 5.4599,
+    "health_mean": 3.3495,
+    "income_unequal_mean": 7.5944,
+    "walkscore_mean": 71.9733,
     "n": 187
   },
   {
@@ -37,6 +61,12 @@
     "HousingType_F_mean": 0.5816,
     "neighbourhood_diversity_mean": 0.5235,
     "neighbourhood_interact_diversity_mean": 0.385,
+    "belonging_singapore_mean": 7.8852,
+    "life_satisfaction_mean": 5.4565,
+    "happy_mean": 5.6011,
+    "health_mean": 3.4783,
+    "income_unequal_mean": 7.0508,
+    "walkscore_mean": 82.8533,
     "n": 184
   },
   {
@@ -45,6 +75,12 @@
     "HousingType_F_mean": 0.4498,
     "neighbourhood_diversity_mean": 0.6497,
     "neighbourhood_interact_diversity_mean": 0.5954,
+    "belonging_singapore_mean": 7.9048,
+    "life_satisfaction_mean": 5.8095,
+    "happy_mean": 5.8452,
+    "health_mean": 3.3393,
+    "income_unequal_mean": 6.9398,
+    "walkscore_mean": 62.7024,
     "n": 168
   },
   {
@@ -53,6 +89,12 @@
     "HousingType_F_mean": 0.5789,
     "neighbourhood_diversity_mean": 0.5222,
     "neighbourhood_interact_diversity_mean": 0.4077,
+    "belonging_singapore_mean": 8.0435,
+    "life_satisfaction_mean": 5.8804,
+    "happy_mean": 5.8043,
+    "health_mean": 3.4457,
+    "income_unequal_mean": 7.5294,
+    "walkscore_mean": 71.4301,
     "n": 93
   },
   {
@@ -61,6 +103,12 @@
     "HousingType_F_mean": 0.364,
     "neighbourhood_diversity_mean": 0.5459,
     "neighbourhood_interact_diversity_mean": 0.5218,
+    "belonging_singapore_mean": 7.1397,
+    "life_satisfaction_mean": 5.3084,
+    "happy_mean": 5.3144,
+    "health_mean": 3.2838,
+    "income_unequal_mean": 6.2965,
+    "walkscore_mean": 71.8079,
     "n": 229
   },
   {
@@ -69,6 +117,12 @@
     "HousingType_F_mean": 0.667,
     "neighbourhood_diversity_mean": 0.4033,
     "neighbourhood_interact_diversity_mean": 0.3458,
+    "belonging_singapore_mean": 8.2981,
+    "life_satisfaction_mean": 5.9029,
+    "happy_mean": 6.0485,
+    "health_mean": 3.7476,
+    "income_unequal_mean": 7.2292,
+    "walkscore_mean": 74.9038,
     "n": 104
   },
   {
@@ -77,6 +131,12 @@
     "HousingType_F_mean": 0.2572,
     "neighbourhood_diversity_mean": 0.705,
     "neighbourhood_interact_diversity_mean": 0.572,
+    "belonging_singapore_mean": 7.6,
+    "life_satisfaction_mean": 5.8,
+    "happy_mean": 5.4,
+    "health_mean": 3.6,
+    "income_unequal_mean": 7.6,
+    "walkscore_mean": 97.6,
     "n": 5
   },
   {
@@ -85,6 +145,12 @@
     "HousingType_F_mean": 0.6769,
     "neighbourhood_diversity_mean": 0.5914,
     "neighbourhood_interact_diversity_mean": 0.5127,
+    "belonging_singapore_mean": 7.8846,
+    "life_satisfaction_mean": 5.7519,
+    "happy_mean": 5.6846,
+    "health_mean": 3.4351,
+    "income_unequal_mean": 7.5238,
+    "walkscore_mean": 83.8321,
     "n": 131
   },
   {
@@ -93,6 +159,12 @@
     "HousingType_F_mean": 0.5941,
     "neighbourhood_diversity_mean": 0.6144,
     "neighbourhood_interact_diversity_mean": 0.5211,
+    "belonging_singapore_mean": 7.7978,
+    "life_satisfaction_mean": 5.6557,
+    "happy_mean": 5.6081,
+    "health_mean": 3.4094,
+    "income_unequal_mean": 7.5709,
+    "walkscore_mean": 70.7473,
     "n": 277
   },
   {
@@ -101,6 +173,12 @@
     "HousingType_F_mean": 0.5337,
     "neighbourhood_diversity_mean": 0.5262,
     "neighbourhood_interact_diversity_mean": 0.4505,
+    "belonging_singapore_mean": 8.033,
+    "life_satisfaction_mean": 5.6484,
+    "happy_mean": 5.7253,
+    "health_mean": 3.3626,
+    "income_unequal_mean": 7.9186,
+    "walkscore_mean": 75.4945,
     "n": 91
   },
   {
@@ -109,6 +187,12 @@
     "HousingType_F_mean": 0.4329,
     "neighbourhood_diversity_mean": 0.358,
     "neighbourhood_interact_diversity_mean": 0.3173,
+    "belonging_singapore_mean": 8.0425,
+    "life_satisfaction_mean": 5.6786,
+    "happy_mean": 5.6039,
+    "health_mean": 3.6851,
+    "income_unequal_mean": 7.5825,
+    "walkscore_mean": 77.1104,
     "n": 308
   },
   {
@@ -117,6 +201,12 @@
     "HousingType_F_mean": 0.6424,
     "neighbourhood_diversity_mean": 0.5155,
     "neighbourhood_interact_diversity_mean": 0.442,
+    "belonging_singapore_mean": 7.945,
+    "life_satisfaction_mean": 5.2973,
+    "happy_mean": 5.2613,
+    "health_mean": 3.4595,
+    "income_unequal_mean": 7.3028,
+    "walkscore_mean": 82.3874,
     "n": 111
   },
   {
@@ -125,6 +215,12 @@
     "HousingType_F_mean": 0.7241,
     "neighbourhood_diversity_mean": 0.4525,
     "neighbourhood_interact_diversity_mean": 0.4082,
+    "belonging_singapore_mean": 8.3488,
+    "life_satisfaction_mean": 5.3488,
+    "happy_mean": 4.9767,
+    "health_mean": 3.0455,
+    "income_unequal_mean": 7.3056,
+    "walkscore_mean": 79.0455,
     "n": 44
   },
   {
@@ -133,6 +229,12 @@
     "HousingType_F_mean": 0.7036,
     "neighbourhood_diversity_mean": 0.4871,
     "neighbourhood_interact_diversity_mean": 0.4176,
+    "belonging_singapore_mean": 7.6471,
+    "life_satisfaction_mean": 5.6667,
+    "happy_mean": 5.6471,
+    "health_mean": 3.3725,
+    "income_unequal_mean": 7.2941,
+    "walkscore_mean": 79.1176,
     "n": 51
   },
   {
@@ -141,6 +243,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.645,
     "neighbourhood_interact_diversity_mean": 0.62,
+    "belonging_singapore_mean": 4,
+    "life_satisfaction_mean": 5,
+    "happy_mean": 5,
+    "health_mean": 4,
+    "income_unequal_mean": 7,
+    "walkscore_mean": 96,
     "n": 1
   },
   {
@@ -149,6 +257,12 @@
     "HousingType_F_mean": 0.4836,
     "neighbourhood_diversity_mean": 0.4171,
     "neighbourhood_interact_diversity_mean": 0.48,
+    "belonging_singapore_mean": 7.9474,
+    "life_satisfaction_mean": 5.4737,
+    "happy_mean": 5.2632,
+    "health_mean": 3.3684,
+    "income_unequal_mean": 7.6842,
+    "walkscore_mean": 97.6842,
     "n": 19
   },
   {
@@ -157,6 +271,12 @@
     "HousingType_F_mean": 0.497,
     "neighbourhood_diversity_mean": 0.5353,
     "neighbourhood_interact_diversity_mean": 0.4965,
+    "belonging_singapore_mean": 8.1018,
+    "life_satisfaction_mean": 5.515,
+    "happy_mean": 5.2934,
+    "health_mean": 3.3155,
+    "income_unequal_mean": 7.5987,
+    "walkscore_mean": 64.4971,
     "n": 171
   },
   {
@@ -165,6 +285,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.725,
     "neighbourhood_interact_diversity_mean": 0.5,
+    "belonging_singapore_mean": 8,
+    "life_satisfaction_mean": 5,
+    "happy_mean": 4,
+    "health_mean": 3,
+    "income_unequal_mean": 5,
+    "walkscore_mean": 46,
     "n": 1
   },
   {
@@ -173,6 +299,12 @@
     "HousingType_F_mean": 0.4652,
     "neighbourhood_diversity_mean": 0.5997,
     "neighbourhood_interact_diversity_mean": 0.5543,
+    "belonging_singapore_mean": 7.1379,
+    "life_satisfaction_mean": 5.2723,
+    "happy_mean": 5.335,
+    "health_mean": 3.4089,
+    "income_unequal_mean": 7.335,
+    "walkscore_mean": 60.6569,
     "n": 204
   },
   {
@@ -181,6 +313,12 @@
     "HousingType_F_mean": 0.6207,
     "neighbourhood_diversity_mean": 0.385,
     "neighbourhood_interact_diversity_mean": 0.3499,
+    "belonging_singapore_mean": 8.0412,
+    "life_satisfaction_mean": 5.6211,
+    "happy_mean": 5.4896,
+    "health_mean": 3.2292,
+    "income_unequal_mean": 8.0753,
+    "walkscore_mean": 76.134,
     "n": 97
   },
   {
@@ -189,6 +327,12 @@
     "HousingType_F_mean": 0.1188,
     "neighbourhood_diversity_mean": 0.739,
     "neighbourhood_interact_diversity_mean": 0.688,
+    "belonging_singapore_mean": 7.2,
+    "life_satisfaction_mean": 5,
+    "happy_mean": 5,
+    "health_mean": 3.4,
+    "income_unequal_mean": 8.2,
+    "walkscore_mean": 87.2,
     "n": 5
   },
   {
@@ -197,6 +341,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.715,
     "neighbourhood_interact_diversity_mean": 0.66,
+    "belonging_singapore_mean": 8,
+    "life_satisfaction_mean": 4,
+    "happy_mean": 4,
+    "health_mean": 3,
+    "income_unequal_mean": 10,
+    "walkscore_mean": 99,
     "n": 1
   },
   {
@@ -205,6 +355,12 @@
     "HousingType_F_mean": 0.4561,
     "neighbourhood_diversity_mean": 0.3914,
     "neighbourhood_interact_diversity_mean": 0.3247,
+    "belonging_singapore_mean": 7.9677,
+    "life_satisfaction_mean": 5.5887,
+    "happy_mean": 5.5242,
+    "health_mean": 3.7339,
+    "income_unequal_mean": 7.6325,
+    "walkscore_mean": 65.7661,
     "n": 124
   },
   {
@@ -213,6 +369,12 @@
     "HousingType_F_mean": 0.3963,
     "neighbourhood_diversity_mean": 0.5203,
     "neighbourhood_interact_diversity_mean": 0.458,
+    "belonging_singapore_mean": 8.0168,
+    "life_satisfaction_mean": 5.6712,
+    "happy_mean": 5.5705,
+    "health_mean": 3.3591,
+    "income_unequal_mean": 6.5315,
+    "walkscore_mean": 65.6433,
     "n": 300
   },
   {
@@ -221,6 +383,12 @@
     "HousingType_F_mean": 0.6891,
     "neighbourhood_diversity_mean": 0.5927,
     "neighbourhood_interact_diversity_mean": 0.5271,
+    "belonging_singapore_mean": 8.0068,
+    "life_satisfaction_mean": 5.5503,
+    "happy_mean": 5.5473,
+    "health_mean": 3.3986,
+    "income_unequal_mean": 7.3592,
+    "walkscore_mean": 80.9597,
     "n": 149
   },
   {
@@ -229,6 +397,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.675,
     "neighbourhood_interact_diversity_mean": 0.46,
+    "belonging_singapore_mean": 6,
+    "life_satisfaction_mean": 6,
+    "happy_mean": 6,
+    "health_mean": 3,
+    "income_unequal_mean": 7,
+    "walkscore_mean": 93,
     "n": 1
   },
   {
@@ -237,6 +411,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.7525,
     "neighbourhood_interact_diversity_mean": 0.77,
+    "belonging_singapore_mean": 8,
+    "life_satisfaction_mean": 6,
+    "happy_mean": 6,
+    "health_mean": 4.5,
+    "income_unequal_mean": 8,
+    "walkscore_mean": 30,
     "n": 2
   },
   {
@@ -245,6 +425,12 @@
     "HousingType_F_mean": 0.505,
     "neighbourhood_diversity_mean": 0.5582,
     "neighbourhood_interact_diversity_mean": 0.5177,
+    "belonging_singapore_mean": 7.9261,
+    "life_satisfaction_mean": 5.2836,
+    "happy_mean": 4.9677,
+    "health_mean": 3.1643,
+    "income_unequal_mean": 7.0723,
+    "walkscore_mean": 66.6082,
     "n": 291
   },
   {
@@ -253,6 +439,12 @@
     "HousingType_F_mean": 0.3019,
     "neighbourhood_diversity_mean": 0.67,
     "neighbourhood_interact_diversity_mean": 0.6,
+    "belonging_singapore_mean": 7,
+    "life_satisfaction_mean": 5,
+    "happy_mean": 5,
+    "health_mean": 3.5,
+    "income_unequal_mean": 7.5,
+    "walkscore_mean": 70,
     "n": 2
   },
   {
@@ -261,6 +453,12 @@
     "HousingType_F_mean": 0.6267,
     "neighbourhood_diversity_mean": 0.6152,
     "neighbourhood_interact_diversity_mean": 0.5309,
+    "belonging_singapore_mean": 8.0676,
+    "life_satisfaction_mean": 5.7095,
+    "happy_mean": 5.7635,
+    "health_mean": 3.5135,
+    "income_unequal_mean": 7.4276,
+    "walkscore_mean": 75.0608,
     "n": 148
   },
   {
@@ -269,6 +467,12 @@
     "HousingType_F_mean": 0.3831,
     "neighbourhood_diversity_mean": 0.6048,
     "neighbourhood_interact_diversity_mean": 0.5456,
+    "belonging_singapore_mean": 7.7116,
+    "life_satisfaction_mean": 5.5113,
+    "happy_mean": 5.5,
+    "health_mean": 3.2974,
+    "income_unequal_mean": 6.9249,
+    "walkscore_mean": 75,
     "n": 271
   },
   {
@@ -277,6 +481,12 @@
     "HousingType_F_mean": 0.5392,
     "neighbourhood_diversity_mean": 0.5477,
     "neighbourhood_interact_diversity_mean": 0.4594,
+    "belonging_singapore_mean": 8.0314,
+    "life_satisfaction_mean": 5.7373,
+    "happy_mean": 5.7683,
+    "health_mean": 3.2846,
+    "income_unequal_mean": 7.3992,
+    "walkscore_mean": 67.3065,
     "n": 261
   },
   {
@@ -285,6 +495,12 @@
     "HousingType_F_mean": null,
     "neighbourhood_diversity_mean": 0.63,
     "neighbourhood_interact_diversity_mean": 0.75,
+    "belonging_singapore_mean": 9.5,
+    "life_satisfaction_mean": 5,
+    "happy_mean": 6,
+    "health_mean": 3,
+    "income_unequal_mean": 6.5,
+    "walkscore_mean": null,
     "n": 2
   }
 ]
